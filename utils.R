@@ -1,1 +1,1 @@
-urldv2<-"https://api-interrogation-geo.developpement.insee.fr/identification"
+urldv2<-"https://api-interrogation-geo.insee.fr/identification"
